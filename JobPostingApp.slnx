@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="JobPosting.Domain/JobPosting.Domain.csproj" />
   <Project Path="JobPostingApp/JobPostingApp.csproj" />
 </Solution>
