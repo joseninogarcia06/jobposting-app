@@ -8,4 +8,7 @@
   <ItemGroup>
     <ProjectReference Include="../JobPosting.Domain/JobPosting.Domain.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views/Login/" />
+  </ItemGroup>
 </Project>

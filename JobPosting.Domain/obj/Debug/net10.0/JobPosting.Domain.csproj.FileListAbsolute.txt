@@ -1,0 +1,15 @@
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/bin/Debug/net10.0/JobPosting.Domain
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/bin/Debug/net10.0/JobPosting.Domain.deps.json
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/bin/Debug/net10.0/JobPosting.Domain.runtimeconfig.json
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/bin/Debug/net10.0/JobPosting.Domain.dll
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/bin/Debug/net10.0/JobPosting.Domain.pdb
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/obj/Debug/net10.0/JobPosting.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/obj/Debug/net10.0/JobPosting.Domain.AssemblyInfoInputs.cache
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/obj/Debug/net10.0/JobPosting.Domain.AssemblyInfo.cs
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/obj/Debug/net10.0/JobPosting.Domain.csproj.CoreCompileInputs.cache
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/obj/Debug/net10.0/JobPosting.Domain.sourcelink.json
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/obj/Debug/net10.0/JobPosting.Domain.dll
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/obj/Debug/net10.0/refint/JobPosting.Domain.dll
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/obj/Debug/net10.0/JobPosting.Domain.pdb
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/obj/Debug/net10.0/JobPosting.Domain.genruntimeconfig.cache
+/Users/joseninogarcia/Documents/jobposting-app/JobPosting.Domain/obj/Debug/net10.0/ref/JobPosting.Domain.dll
